@@ -1,0 +1,13 @@
+html {
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.deathstranding {
+    background-color: bisque;
+    color: red;
+}
+
+.personaje, img {
+    height: 300px;
+}
